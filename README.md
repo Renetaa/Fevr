@@ -3,6 +3,6 @@
 public class Hellol world {
 
 public static void main <String[] args>{
-//vtori
+//vtoriqt
     }
 }
